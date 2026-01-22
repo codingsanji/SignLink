@@ -1,4 +1,4 @@
-# SignLink 🖐️🔗
+# SignLink 
 SignLink is an undergraduate honors project that focuses on bridging communication gaps between sign-language users and non-signers by translating sign language gestures into real-time text and speech using wearable sensors and machine learning.
 
 The system adopts a multimodal approach, combining **surface electromyography (sEMG)** and **inertial measurement unit (IMU)** data from a wearable forearm or wrist device processed through a mobile application that enables real-time conversion of sign gestures into readable text and audible speech, improving accessibility and inclusive communication.
